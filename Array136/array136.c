@@ -16,7 +16,7 @@ Array 136:
 
 // Структура данных точки в двумерном пространстве
 typedef struct {
-    double x;  
+    double x;   
     double y;
 } POINT;
 
