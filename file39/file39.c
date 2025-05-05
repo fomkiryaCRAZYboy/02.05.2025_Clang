@@ -25,6 +25,7 @@ int main(void)
     }
 
     char buffer[MAX_ARR_SIZE];
+
     ssize_t readed_bytes = read(file_d, buffer, sizeof(buffer));
     if(readed_bytes <= 0){
         close(file_d);
@@ -38,10 +39,12 @@ int main(void)
 
     int buffer_idx = 0;
     int curr_num_idx = 0;
+
     while(readed_bytes) {
         if(isdigit(buffer[buffer_idx])){
             curr_num[curr_num_idx] = buffer[buffer_idx++];
             curr_num_idx++;
+            readed_bytes--;
         }
 
         if((isspace(buffer[buffer_idx]) || buffer[buffer_idx] == '\n') && curr_num_idx){
@@ -51,10 +54,9 @@ int main(void)
             numbers_array[num_idx++] = atoi(curr_num);
 
             curr_num_idx = 0;
+            buffer_idx++;
+            readed_bytes--;
         }
-
-        buffer_idx++;
-        readed_bytes--;
     }
 
     dublicate_nums_in_arr(numbers_array, &num_idx);
@@ -69,6 +71,7 @@ int main(void)
 
     for (int i = 0; i < num_idx; i++) {
         fprintf(file, "%d ", numbers_array[i]);
+        fprintf(stdout, "Записано значение: %d ", numbers_array[i]);
     }
 
     fclose(file);
@@ -79,7 +82,6 @@ int main(void)
 void dublicate_nums_in_arr(int* arr, int* size) {
     for (int i = 0; i < *size; i++) {
         if (arr[i] >= 5 && arr[i] <= 10) {
-            // Сдвигаем элементы вправо
             for (int j = *size; j > i; j--) {
                 arr[j] = arr[j-1];
             }
