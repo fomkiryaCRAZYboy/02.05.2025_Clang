@@ -1,0 +1,66 @@
+1 ENTRTY:
+Path to entry: ../catalogs&paths
+Name entry: catalogs&paths
+Type entry: directory
+-----------------
+
+2 ENTRTY:
+Path to entry: ../proc31
+Name entry: proc31
+Type entry: directory
+-----------------
+
+3 ENTRTY:
+Path to entry: ../String70
+Name entry: String70
+Type entry: directory
+-----------------
+
+4 ENTRTY:
+Path to entry: ../.git
+Name entry: .git
+Type entry: directory
+-----------------
+
+5 ENTRTY:
+Path to entry: ../text52
+Name entry: text52
+Type entry: directory
+-----------------
+
+6 ENTRTY:
+Path to entry: ../file39
+Name entry: file39
+Type entry: directory
+-----------------
+
+7 ENTRTY:
+Path to entry: ../Array136
+Name entry: Array136
+Type entry: directory
+-----------------
+
+8 ENTRTY:
+Path to entry: ../.
+Name entry: .
+Type entry: directory
+-----------------
+
+9 ENTRTY:
+Path to entry: ../text44
+Name entry: text44
+Type entry: directory
+-----------------
+
+10 ENTRTY:
+Path to entry: ../..
+Name entry: ..
+Type entry: directory
+-----------------
+
+11 ENTRTY:
+Path to entry: ../.vscode
+Name entry: .vscode
+Type entry: directory
+-----------------
+
