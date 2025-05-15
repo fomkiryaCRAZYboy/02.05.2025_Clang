@@ -1,66 +1,852 @@
-1 ENTRTY:
+1 ENTRY:
 Path to entry: ../catalogs&paths
 Name entry: catalogs&paths
 Type entry: directory
+1 ENTRY:
+Path to entry: ../catalogs&paths/chekdirs
+Name entry: chekdirs
+Type entry: regular file
 -----------------
 
-2 ENTRTY:
+2 ENTRY:
+Path to entry: ../catalogs&paths/chekdirs.c
+Name entry: chekdirs.c
+Type entry: regular file
+-----------------
+
+3 ENTRY:
+Path to entry: ../catalogs&paths/catalogs.txt
+Name entry: catalogs.txt
+Type entry: regular file
+-----------------
+
+-----------------
+
+2 ENTRY:
 Path to entry: ../proc31
 Name entry: proc31
 Type entry: directory
+1 ENTRY:
+Path to entry: ../proc31/proc31
+Name entry: proc31
+Type entry: regular file
 -----------------
 
-3 ENTRTY:
+2 ENTRY:
+Path to entry: ../proc31/proc31.c
+Name entry: proc31.c
+Type entry: regular file
+-----------------
+
+-----------------
+
+3 ENTRY:
 Path to entry: ../String70
 Name entry: String70
 Type entry: directory
+1 ENTRY:
+Path to entry: ../String70/string70.c
+Name entry: string70.c
+Type entry: regular file
 -----------------
 
-4 ENTRTY:
+2 ENTRY:
+Path to entry: ../String70/string70
+Name entry: string70
+Type entry: regular file
+-----------------
+
+-----------------
+
+4 ENTRY:
 Path to entry: ../.git
 Name entry: .git
 Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects
+Name entry: objects
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/a1
+Name entry: a1
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/a1/669b4296cdc5fe40f92018750b063234e65585
+Name entry: 669b4296cdc5fe40f92018750b063234e65585
+Type entry: regular file
 -----------------
 
-5 ENTRTY:
+-----------------
+
+2 ENTRY:
+Path to entry: ../.git/objects/4f
+Name entry: 4f
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/4f/6e5b1102c2a18e6973341a50ec5adbd734375e
+Name entry: 6e5b1102c2a18e6973341a50ec5adbd734375e
+Type entry: regular file
+-----------------
+
+-----------------
+
+3 ENTRY:
+Path to entry: ../.git/objects/9d
+Name entry: 9d
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/9d/f3252620369e28cfbb2eb9daa523ea74f41e38
+Name entry: f3252620369e28cfbb2eb9daa523ea74f41e38
+Type entry: regular file
+-----------------
+
+-----------------
+
+4 ENTRY:
+Path to entry: ../.git/objects/ef
+Name entry: ef
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/ef/637a7d9409d256c60edca02d6454287d0f1bf6
+Name entry: 637a7d9409d256c60edca02d6454287d0f1bf6
+Type entry: regular file
+-----------------
+
+-----------------
+
+5 ENTRY:
+Path to entry: ../.git/objects/a2
+Name entry: a2
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/a2/144076dbd81095255f7bd3dc3945c068c65729
+Name entry: 144076dbd81095255f7bd3dc3945c068c65729
+Type entry: regular file
+-----------------
+
+-----------------
+
+6 ENTRY:
+Path to entry: ../.git/objects/0a
+Name entry: 0a
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/0a/b98b1251cb8a4e9e1a17c9fd73949208b518d2
+Name entry: b98b1251cb8a4e9e1a17c9fd73949208b518d2
+Type entry: regular file
+-----------------
+
+-----------------
+
+7 ENTRY:
+Path to entry: ../.git/objects/7b
+Name entry: 7b
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/7b/dcee252f659cfda999a806c7b1721e16c44370
+Name entry: dcee252f659cfda999a806c7b1721e16c44370
+Type entry: regular file
+-----------------
+
+-----------------
+
+8 ENTRY:
+Path to entry: ../.git/objects/47
+Name entry: 47
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/47/6073ea32133f5581d67b37ca84837ed9d4a9e0
+Name entry: 6073ea32133f5581d67b37ca84837ed9d4a9e0
+Type entry: regular file
+-----------------
+
+-----------------
+
+9 ENTRY:
+Path to entry: ../.git/objects/b4
+Name entry: b4
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/b4/f65302c5033c928e2286767342fec4feb78f09
+Name entry: f65302c5033c928e2286767342fec4feb78f09
+Type entry: regular file
+-----------------
+
+-----------------
+
+10 ENTRY:
+Path to entry: ../.git/objects/4e
+Name entry: 4e
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/4e/b613afc5e57c9fab5f5a4d5baf1db90381b2cb
+Name entry: b613afc5e57c9fab5f5a4d5baf1db90381b2cb
+Type entry: regular file
+-----------------
+
+2 ENTRY:
+Path to entry: ../.git/objects/4e/dab62e0ecead48600f75863a96025a95530f21
+Name entry: dab62e0ecead48600f75863a96025a95530f21
+Type entry: regular file
+-----------------
+
+3 ENTRY:
+Path to entry: ../.git/objects/4e/b3c2f6898b3a1ba421dd10770c5a25bf2a9bcf
+Name entry: b3c2f6898b3a1ba421dd10770c5a25bf2a9bcf
+Type entry: regular file
+-----------------
+
+-----------------
+
+11 ENTRY:
+Path to entry: ../.git/objects/info
+Name entry: info
+Type entry: directory
+-----------------
+
+12 ENTRY:
+Path to entry: ../.git/objects/8b
+Name entry: 8b
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/8b/3a45c31b1abb0bc2e577b37700fd25f69b1a97
+Name entry: 3a45c31b1abb0bc2e577b37700fd25f69b1a97
+Type entry: regular file
+-----------------
+
+-----------------
+
+13 ENTRY:
+Path to entry: ../.git/objects/2c
+Name entry: 2c
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/2c/82a1f578ab2fad14da1be6e7b3cc51427f5746
+Name entry: 82a1f578ab2fad14da1be6e7b3cc51427f5746
+Type entry: regular file
+-----------------
+
+-----------------
+
+14 ENTRY:
+Path to entry: ../.git/objects/ae
+Name entry: ae
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/ae/42a42489fb07e7a8dee73c7486902cb2abee0a
+Name entry: 42a42489fb07e7a8dee73c7486902cb2abee0a
+Type entry: regular file
+-----------------
+
+-----------------
+
+15 ENTRY:
+Path to entry: ../.git/objects/48
+Name entry: 48
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/48/8ee37079f3d1bcbfa65730198593bcbe51d9d2
+Name entry: 8ee37079f3d1bcbfa65730198593bcbe51d9d2
+Type entry: regular file
+-----------------
+
+-----------------
+
+16 ENTRY:
+Path to entry: ../.git/objects/86
+Name entry: 86
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/86/952087306df4ebb480c87c15ce9f2ca6a49689
+Name entry: 952087306df4ebb480c87c15ce9f2ca6a49689
+Type entry: regular file
+-----------------
+
+-----------------
+
+17 ENTRY:
+Path to entry: ../.git/objects/a0
+Name entry: a0
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/a0/c0626e2bd9f36a4aebee8a60bc1c38801fad95
+Name entry: c0626e2bd9f36a4aebee8a60bc1c38801fad95
+Type entry: regular file
+-----------------
+
+-----------------
+
+18 ENTRY:
+Path to entry: ../.git/objects/c5
+Name entry: c5
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/c5/c6248069cf95e68191bf135b8da4bded525970
+Name entry: c6248069cf95e68191bf135b8da4bded525970
+Type entry: regular file
+-----------------
+
+-----------------
+
+19 ENTRY:
+Path to entry: ../.git/objects/71
+Name entry: 71
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/71/fbf0272719481585707478cd8d0f76d0e9d600
+Name entry: fbf0272719481585707478cd8d0f76d0e9d600
+Type entry: regular file
+-----------------
+
+-----------------
+
+20 ENTRY:
+Path to entry: ../.git/objects/da
+Name entry: da
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/da/df03b4a2a6f0c3b0baa6ed4e9e602e889fdabe
+Name entry: df03b4a2a6f0c3b0baa6ed4e9e602e889fdabe
+Type entry: regular file
+-----------------
+
+-----------------
+
+21 ENTRY:
+Path to entry: ../.git/objects/pack
+Name entry: pack
+Type entry: directory
+-----------------
+
+22 ENTRY:
+Path to entry: ../.git/objects/97
+Name entry: 97
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/97/b0ae82fd3a8c85b640b48cc1aa7bd909e8a23d
+Name entry: b0ae82fd3a8c85b640b48cc1aa7bd909e8a23d
+Type entry: regular file
+-----------------
+
+-----------------
+
+23 ENTRY:
+Path to entry: ../.git/objects/8e
+Name entry: 8e
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/8e/dbf678995a965913a22fb089e92125b3f4f44f
+Name entry: dbf678995a965913a22fb089e92125b3f4f44f
+Type entry: regular file
+-----------------
+
+2 ENTRY:
+Path to entry: ../.git/objects/8e/18fa80861b77a4d91e0d797ca0cc40411f19f0
+Name entry: 18fa80861b77a4d91e0d797ca0cc40411f19f0
+Type entry: regular file
+-----------------
+
+-----------------
+
+24 ENTRY:
+Path to entry: ../.git/objects/44
+Name entry: 44
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/44/4f60bb08aff3ebafb09ce1a3a3bf57862ba7af
+Name entry: 4f60bb08aff3ebafb09ce1a3a3bf57862ba7af
+Type entry: regular file
+-----------------
+
+-----------------
+
+25 ENTRY:
+Path to entry: ../.git/objects/f2
+Name entry: f2
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/f2/f6db9215efb716fcb6e880f4591569fa926d08
+Name entry: f6db9215efb716fcb6e880f4591569fa926d08
+Type entry: regular file
+-----------------
+
+-----------------
+
+26 ENTRY:
+Path to entry: ../.git/objects/50
+Name entry: 50
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/50/0e3dcf58f5e2aae44f2172d997a98bfd68b1e3
+Name entry: 0e3dcf58f5e2aae44f2172d997a98bfd68b1e3
+Type entry: regular file
+-----------------
+
+-----------------
+
+27 ENTRY:
+Path to entry: ../.git/objects/9b
+Name entry: 9b
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/9b/dad44fbc312874a4b9108bd3df1741707850e9
+Name entry: dad44fbc312874a4b9108bd3df1741707850e9
+Type entry: regular file
+-----------------
+
+2 ENTRY:
+Path to entry: ../.git/objects/9b/ff5f2ac52049129b9bcaef26d98dc049866b47
+Name entry: ff5f2ac52049129b9bcaef26d98dc049866b47
+Type entry: regular file
+-----------------
+
+-----------------
+
+28 ENTRY:
+Path to entry: ../.git/objects/09
+Name entry: 09
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/09/df8e719cc52a59e60545ce5ceafdeb522f4e68
+Name entry: df8e719cc52a59e60545ce5ceafdeb522f4e68
+Type entry: regular file
+-----------------
+
+-----------------
+
+29 ENTRY:
+Path to entry: ../.git/objects/e2
+Name entry: e2
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/e2/8bb41ff1c6c53f21ac5eb804ec55e1c8a25bad
+Name entry: 8bb41ff1c6c53f21ac5eb804ec55e1c8a25bad
+Type entry: regular file
+-----------------
+
+-----------------
+
+30 ENTRY:
+Path to entry: ../.git/objects/5a
+Name entry: 5a
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/5a/2097fb6358e99b15ecf4d1b192c2605829df80
+Name entry: 2097fb6358e99b15ecf4d1b192c2605829df80
+Type entry: regular file
+-----------------
+
+-----------------
+
+31 ENTRY:
+Path to entry: ../.git/objects/37
+Name entry: 37
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/37/0af6cf73655bac6ba8cb50ff0cf830fad13ea7
+Name entry: 0af6cf73655bac6ba8cb50ff0cf830fad13ea7
+Type entry: regular file
+-----------------
+
+-----------------
+
+32 ENTRY:
+Path to entry: ../.git/objects/a9
+Name entry: a9
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/a9/a20e283b0be3ef1d0257d8686e0a3aecb52a21
+Name entry: a20e283b0be3ef1d0257d8686e0a3aecb52a21
+Type entry: regular file
+-----------------
+
+-----------------
+
+33 ENTRY:
+Path to entry: ../.git/objects/1d
+Name entry: 1d
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/1d/5c879ecf4f906ea6a12396c116fe327322c144
+Name entry: 5c879ecf4f906ea6a12396c116fe327322c144
+Type entry: regular file
+-----------------
+
+-----------------
+
+34 ENTRY:
+Path to entry: ../.git/objects/22
+Name entry: 22
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/22/e5204aff75ce06b3678cec530e688782fdbd1b
+Name entry: e5204aff75ce06b3678cec530e688782fdbd1b
+Type entry: regular file
+-----------------
+
+-----------------
+
+35 ENTRY:
+Path to entry: ../.git/objects/a5
+Name entry: a5
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/a5/b1e55ff3ae37ac41f27789fdf9e973f5aa3105
+Name entry: b1e55ff3ae37ac41f27789fdf9e973f5aa3105
+Type entry: regular file
+-----------------
+
+-----------------
+
+36 ENTRY:
+Path to entry: ../.git/objects/51
+Name entry: 51
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/51/32a1f5bbc5e15d3eb7c9e619c11b699c1d3c5d
+Name entry: 32a1f5bbc5e15d3eb7c9e619c11b699c1d3c5d
+Type entry: regular file
+-----------------
+
+-----------------
+
+37 ENTRY:
+Path to entry: ../.git/objects/01
+Name entry: 01
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/01/b876f9f988b1d46900d7b37f5e9b7a070a0496
+Name entry: b876f9f988b1d46900d7b37f5e9b7a070a0496
+Type entry: regular file
+-----------------
+
+-----------------
+
+38 ENTRY:
+Path to entry: ../.git/objects/77
+Name entry: 77
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/77/feebc2aea52893090e8a3e2d7d0246dafc4f75
+Name entry: feebc2aea52893090e8a3e2d7d0246dafc4f75
+Type entry: regular file
+-----------------
+
+-----------------
+
+39 ENTRY:
+Path to entry: ../.git/objects/fe
+Name entry: fe
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/objects/fe/4f7943125cef36ffc1ced7e010c29f19af0f7c
+Name entry: 4f7943125cef36ffc1ced7e010c29f19af0f7c
+Type entry: regular file
+-----------------
+
+-----------------
+
+-----------------
+
+2 ENTRY:
+Path to entry: ../.git/HEAD
+Name entry: HEAD
+Type entry: regular file
+-----------------
+
+3 ENTRY:
+Path to entry: ../.git/index
+Name entry: index
+Type entry: regular file
+-----------------
+
+4 ENTRY:
+Path to entry: ../.git/config
+Name entry: config
+Type entry: regular file
+-----------------
+
+5 ENTRY:
+Path to entry: ../.git/description
+Name entry: description
+Type entry: regular file
+-----------------
+
+6 ENTRY:
+Path to entry: ../.git/info
+Name entry: info
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/info/exclude
+Name entry: exclude
+Type entry: regular file
+-----------------
+
+-----------------
+
+7 ENTRY:
+Path to entry: ../.git/hooks
+Name entry: hooks
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/hooks/fsmonitor-watchman.sample
+Name entry: fsmonitor-watchman.sample
+Type entry: regular file
+-----------------
+
+2 ENTRY:
+Path to entry: ../.git/hooks/sendemail-validate.sample
+Name entry: sendemail-validate.sample
+Type entry: regular file
+-----------------
+
+3 ENTRY:
+Path to entry: ../.git/hooks/push-to-checkout.sample
+Name entry: push-to-checkout.sample
+Type entry: regular file
+-----------------
+
+4 ENTRY:
+Path to entry: ../.git/hooks/pre-push.sample
+Name entry: pre-push.sample
+Type entry: regular file
+-----------------
+
+5 ENTRY:
+Path to entry: ../.git/hooks/prepare-commit-msg.sample
+Name entry: prepare-commit-msg.sample
+Type entry: regular file
+-----------------
+
+6 ENTRY:
+Path to entry: ../.git/hooks/pre-applypatch.sample
+Name entry: pre-applypatch.sample
+Type entry: regular file
+-----------------
+
+7 ENTRY:
+Path to entry: ../.git/hooks/pre-merge-commit.sample
+Name entry: pre-merge-commit.sample
+Type entry: regular file
+-----------------
+
+8 ENTRY:
+Path to entry: ../.git/hooks/pre-receive.sample
+Name entry: pre-receive.sample
+Type entry: regular file
+-----------------
+
+9 ENTRY:
+Path to entry: ../.git/hooks/update.sample
+Name entry: update.sample
+Type entry: regular file
+-----------------
+
+10 ENTRY:
+Path to entry: ../.git/hooks/applypatch-msg.sample
+Name entry: applypatch-msg.sample
+Type entry: regular file
+-----------------
+
+11 ENTRY:
+Path to entry: ../.git/hooks/pre-commit.sample
+Name entry: pre-commit.sample
+Type entry: regular file
+-----------------
+
+12 ENTRY:
+Path to entry: ../.git/hooks/pre-rebase.sample
+Name entry: pre-rebase.sample
+Type entry: regular file
+-----------------
+
+13 ENTRY:
+Path to entry: ../.git/hooks/post-update.sample
+Name entry: post-update.sample
+Type entry: regular file
+-----------------
+
+14 ENTRY:
+Path to entry: ../.git/hooks/commit-msg.sample
+Name entry: commit-msg.sample
+Type entry: regular file
+-----------------
+
+-----------------
+
+8 ENTRY:
+Path to entry: ../.git/refs
+Name entry: refs
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/refs/heads
+Name entry: heads
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/refs/heads/master
+Name entry: master
+Type entry: regular file
+-----------------
+
+-----------------
+
+2 ENTRY:
+Path to entry: ../.git/refs/tags
+Name entry: tags
+Type entry: directory
+-----------------
+
+3 ENTRY:
+Path to entry: ../.git/refs/remotes
+Name entry: remotes
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/refs/remotes/origin
+Name entry: origin
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/refs/remotes/origin/master
+Name entry: master
+Type entry: regular file
+-----------------
+
+-----------------
+
+-----------------
+
+-----------------
+
+9 ENTRY:
+Path to entry: ../.git/COMMIT_EDITMSG
+Name entry: COMMIT_EDITMSG
+Type entry: regular file
+-----------------
+
+10 ENTRY:
+Path to entry: ../.git/logs
+Name entry: logs
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/logs/HEAD
+Name entry: HEAD
+Type entry: regular file
+-----------------
+
+2 ENTRY:
+Path to entry: ../.git/logs/refs
+Name entry: refs
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/logs/refs/heads
+Name entry: heads
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/logs/refs/heads/master
+Name entry: master
+Type entry: regular file
+-----------------
+
+-----------------
+
+2 ENTRY:
+Path to entry: ../.git/logs/refs/remotes
+Name entry: remotes
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/logs/refs/remotes/origin
+Name entry: origin
+Type entry: directory
+1 ENTRY:
+Path to entry: ../.git/logs/refs/remotes/origin/master
+Name entry: master
+Type entry: regular file
+-----------------
+
+-----------------
+
+-----------------
+
+-----------------
+
+-----------------
+
+-----------------
+
+5 ENTRY:
 Path to entry: ../text52
 Name entry: text52
 Type entry: directory
+1 ENTRY:
+Path to entry: ../text52/text52.c
+Name entry: text52.c
+Type entry: regular file
 -----------------
 
-6 ENTRTY:
+2 ENTRY:
+Path to entry: ../text52/file_text52.txt
+Name entry: file_text52.txt
+Type entry: regular file
+-----------------
+
+-----------------
+
+6 ENTRY:
 Path to entry: ../file39
 Name entry: file39
 Type entry: directory
+1 ENTRY:
+Path to entry: ../file39/file39.c
+Name entry: file39.c
+Type entry: regular file
 -----------------
 
-7 ENTRTY:
+2 ENTRY:
+Path to entry: ../file39/file39_test.txt
+Name entry: file39_test.txt
+Type entry: regular file
+-----------------
+
+-----------------
+
+7 ENTRY:
 Path to entry: ../Array136
 Name entry: Array136
 Type entry: directory
+1 ENTRY:
+Path to entry: ../Array136/array136.c
+Name entry: array136.c
+Type entry: regular file
 -----------------
 
-8 ENTRTY:
-Path to entry: ../.
-Name entry: .
-Type entry: directory
 -----------------
 
-9 ENTRTY:
+8 ENTRY:
 Path to entry: ../text44
 Name entry: text44
 Type entry: directory
+1 ENTRY:
+Path to entry: ../text44/file_text44.txt
+Name entry: file_text44.txt
+Type entry: regular file
 -----------------
 
-10 ENTRTY:
-Path to entry: ../..
-Name entry: ..
-Type entry: directory
+2 ENTRY:
+Path to entry: ../text44/text44.c
+Name entry: text44.c
+Type entry: regular file
 -----------------
 
-11 ENTRTY:
+-----------------
+
+9 ENTRY:
 Path to entry: ../.vscode
 Name entry: .vscode
 Type entry: directory
+1 ENTRY:
+Path to entry: ../.vscode/settings.json
+Name entry: settings.json
+Type entry: regular file
+-----------------
+
 -----------------
 
