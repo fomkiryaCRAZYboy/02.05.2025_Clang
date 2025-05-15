@@ -7,7 +7,7 @@
 #include <dirent.h>
 #include <errno.h>
 #include <sys/stat.h>
-#include <limits.h> // для PATH_MAX
+#include <limits.h> // для PATH_MAX и NAME_MAX
 
 #define MAX_OPENED_DIRS 100
 
@@ -50,8 +50,8 @@ int main(void)
 }
 
 int analyse_dir(DIR* dir, FILE* file, const char* current_dir_path) {
-    struct dirent* entry;
-    struct stat entry_stat;
+    struct dirent* entry;   //Вхождение в директорию(файл, директория и т.д.)
+    struct stat entry_stat;  //структура определена в <sys/stat.h>, описывает состояние файла
 
     int i = 1;
     while ((entry = readdir(dir)) != NULL) {
