@@ -36,6 +36,8 @@ int main(void)
         if(strstr(ppid_str, "PPid:")) break;
     }
 
+    printf("whfebuwefb::%s\n", ppid_str);
+
     char ppid[MAX_PID_LEN];
 
     int i = 0;
