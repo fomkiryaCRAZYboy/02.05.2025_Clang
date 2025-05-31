@@ -1,4 +1,4 @@
-/* Подсчет числа процессов с заданным именем */\
+/* Подсчет числа процессов с заданным именем */
 
 #define _POSIX_C_SOURCE 200809L
 
@@ -14,8 +14,11 @@
 
 #define MAX_CMD_LEN 50
 
+/*
+    формирую строку с командой с помощью system исполняю её
+*/
 void write_process_stat(char pid[NAME_MAX]){
-    char command[MAX_CMD_LEN];
+    char command[MAX_CMD_LEN];      //proc/324/stat 
     snprintf(command, MAX_CMD_LEN, "cat /proc/%s/stat > proc_stat.txt", pid);
     system(command);
 }

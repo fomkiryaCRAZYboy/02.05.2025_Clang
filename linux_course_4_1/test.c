@@ -15,8 +15,12 @@
 #include <errno.h>
 #include <string.h>
 
+#include <assert.h>
+
+
 int main(void)
 {
+
     int test_fd = open("./test_file.txt", O_RDWR | O_CREAT | O_TRUNC, 0644);
     if(test_fd < 0)
     {
