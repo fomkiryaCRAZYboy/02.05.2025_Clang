@@ -31,12 +31,12 @@ int main(void)
         return 1;
     }
 
-    char ppid_str[MAX_PID_LEN+10];   //получаю строку: PPid:    [ppid]
+    char ppid_str[MAX_PID_LEN+10];   //получаю строку: PPid:    123
     while(fgets(ppid_str, MAX_PID_LEN, status_file)){
         if(strstr(ppid_str, "PPid:")) break;
     }
 
-    char ppid[MAX_PID_LEN];
+    char ppid[MAX_PID_LEN];  //123
 
     int i = 0;
     int j = 0;

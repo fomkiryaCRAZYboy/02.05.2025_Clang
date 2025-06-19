@@ -1,10 +1,10 @@
 #include "haed.h"
+#include "cypher/cipher.h"
 
-char* ptr_shmema = NULL;
+u8* ptr_shmema = NULL;
 int   fd_shmema  = -1;
 
 typedef void (*sighandler_t)(int); 
-
 
 int open_shmema()
 {
@@ -73,7 +73,7 @@ int main(void)
 
 
     pause();  /* ожидаю сигнал от companion1 */
-    char msgbuf[BUFFLEN];
+    u8 msgbuf[BUFFLEN];
 
     for(;;)
     {
@@ -85,10 +85,12 @@ int main(void)
             break;
         }
 
+        strcpy(ptr_shmema, msgbuf);    
+
+        /* сохраняю в файл зашифрованное сообщение */
+        u8* encrypted_msg = encryption(msgbuf, strlen(msgbuf));
         write(histfd, msgbuf, strlen(msgbuf));
         fsync(histfd);
-
-        strcpy(ptr_shmema, msgbuf);    
         
         kill(companion_pid, SIGUSR1);
         pause();

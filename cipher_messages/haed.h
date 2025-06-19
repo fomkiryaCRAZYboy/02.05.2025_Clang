@@ -12,6 +12,8 @@
 #include <signal.h>
 #include <time.h>
 
+typedef unsigned char  u8;
+
 char* display_shm(const char* name_obj, off_t size_obj, int fd);
 
 void cleanup_shm(char* ptr, off_t size_obj, int fd, const char* name_obj);

@@ -1,7 +1,7 @@
 #include "haed.h"
 #include "cypher/cipher.h"
 
-char* ptr_shmema = NULL;
+u8* ptr_shmema = NULL;
 int   fd_shmema  = -1;
 
 typedef void (*sighandler_t)(int); 
@@ -84,11 +84,13 @@ int main(void)
             break;
         }
 
+        /* кладу в объект строку */
+        strcpy(ptr_shmema, msgbuf);
+
+        /* в файле сохраняю историю сообщений в зашифрованном виде */
         u8* encrypted_msg = encryption(msgbuf, strlen(msgbuf));
         write(histfd, encrypted_msg, strlen(encrypted_msg));
         fsync(histfd);
-    
-        strcpy(ptr_shmema, encrypted_msg);
     
         kill(companion_pid, SIGUSR2);
         pause();
